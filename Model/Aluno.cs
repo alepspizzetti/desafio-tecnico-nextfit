@@ -37,7 +37,7 @@ namespace agendadorAulas.Model
 
         public override string ToString()
         {
-            return $"[ID: {Id}] - {Nome}\n--> Plano{TipoPlano} - Agendamentos por Mês: {QtdAulasPlano}";
+            return $"[ID: {Id}] - {Nome}\n--> Plano: {TipoPlano} \n--> Agendamentos por mês: {QtdAulasPlano}";
         }
     }
 }

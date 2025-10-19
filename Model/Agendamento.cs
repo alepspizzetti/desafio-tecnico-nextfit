@@ -26,6 +26,6 @@ namespace agendadorAulas.Model
             this.Aula = aula;
         }
 
-        public override string ToString() => $"[ID:{Id}] Aula={Aula.TipoAula} Aluno={Aluno.Nome} -> {DataHora:dd/MM/yyyy HH:mm}";
+        public override string ToString() => $"[ID: {Id}] Aula: {Aula.TipoAula} - Aluno: {Aluno.Nome} -> {DataHora:dd/MM/yyyy HH:mm}";
     }
 }

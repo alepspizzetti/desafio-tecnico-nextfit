@@ -21,6 +21,6 @@ namespace agendadorAulas.Model
             CapacidadeMax = capacidadeMax;
         }
 
-        public override string ToString() => $"[{Id}] {TipoAula} - {DataHora:dd/MM/yyyy HH:mm} (capacidade : {CapacidadeMax})";
+        public override string ToString() => $"[ID: {Id}] - {TipoAula} \n--> Data: {DataHora:dd/MM/yyyy HH:mm} \n--> Capacidade máxima: {CapacidadeMax})";
     }
 }
