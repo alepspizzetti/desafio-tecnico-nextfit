@@ -13,7 +13,7 @@ namespace agendadorAulas.Model
         {
             return plano switch
             {
-                "Mensal" => 1,
+                "Mensal" => 12,
                 "Trimestral" => 20,
                 "Anual" => 30,
                 _ => 0,
