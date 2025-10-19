@@ -1,3 +1,19 @@
-.db
-.db-shm
-.db-wal
+# Pastas de build
+bin/
+obj/
+.vs/
+
+# Configurações temporárias
+*.user
+*.suo
+*.cache
+*.log
+
+# Banco local
+*.db
+*.db-shm
+*.db-wal
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
