@@ -3,8 +3,8 @@
 Sistema de agendamento de aulas desenvolvido em **C# (.NET 9)** com **Entity Framework Core** e **SQLite**.  
 O projeto foi criado com foco em boas práticas de arquitetura, separando as camadas de **serviços**, **repositórios** e **acesso a dados**, aplicando validações e tratamento de exceções.
 
-OBS: Projeto criado para demonstrar habilidades tecnicas seguindo o desafio imposto.
-(Desafio Backend C# Pleno)[https://mirror-path-0d6.notion.site/Desafio-t-cnico-Back-End-Pleno-1e041e6d421d8007987ae67786944e5b]
+OBS: Projeto criado para demonstrar habilidades tecnicas seguindo o desafio imposto:
+[Desafio Backend C# Pleno NextFit](https://mirror-path-0d6.notion.site/Desafio-t-cnico-Back-End-Pleno-1e041e6d421d8007987ae67786944e5b)
 
 ---
 
